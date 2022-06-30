@@ -15,18 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I’m Jalil
-- 👀 I’m interested in web developer and Machine Learning
-- 🌱 I’m currently learning on Javascript
-- ✨ I’m looking to collaborate on website development
-- 📫 How to reach me: <a href="https://wa.me/6281333433994">Whatsapp</a> or <a href="https://www.linkedin.com/in/jalilrzq/">Linkdin</a>
+## 👋 Hi there, I’m Fuad Zein
+- 👀 I'm interested in Frontend Web Developer and Internet of Things (IoT)
+- 🌱 I'm currently learning Javascript
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fuad-zein-b2a509104/)
 
 ## Github Statistic
-<a href="https://github.com/jalilrzq">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jalilrzq&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jalilrzq&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jalilrzq&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jalilrzq&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jalilrzq&theme=github_dark"/>
-</a>
-</p>
+
+[my](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=dracula)
