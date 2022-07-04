@@ -24,7 +24,6 @@ I am someone who likes to learn new things by researching their advantages and d
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuad-zein&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuad-zein&theme=github_dark&utcOffset=8"/>
 </div>
-
 </br>
 
 ### **Let's connect!**
@@ -34,8 +33,6 @@ I am someone who likes to learn new things by researching their advantages and d
     <img src='https://img.shields.io/badge/Fuad_Zein-30302f?style=flat&logo=linkedin&color=blue'/>
   </a>
 </div>
-
-[my](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=dracula)
 
 
 <!-- 
