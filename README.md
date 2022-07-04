@@ -1,25 +1,44 @@
-<!-- ### Hi there 👋 -->
+## 👋 Hi there, I’m **Fuad Zein**
 
-<!--
-**fuad-zein/fuad-zein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am someone who likes to learn new things by researching their advantages and disadvantages of it so that I can provide the best alternative in dealing with various problems. As industry 4.0 develops, there is hope in the future to be able to develop Internet of Things (IoT) devices.
 
-Here are some ideas to get you started:
+### **Stats:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>
+    <strong>
+      What have I learned so far?
+    </strong>
+  </summary>
+  - 👀 I'm interested in Frontend Web Developer and Internet of Things (IoT). </br>
+  - 🌱 I'm currently learning Arduino, Javascript, Typescript. </br>
+  - 💬 Ask me about anything. </br>
+  - 📫 How to reach me: <a href="mailto:fzein.1695@gmail.com">email me...</a>
+</details>
+</br>
 
-## 👋 Hi there, I’m Fuad Zein
-- 👀 I'm interested in Frontend Web Developer and Internet of Things (IoT)
-- 🌱 I'm currently learning Javascript
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fuad-zein-b2a509104/)
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuad-zein&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuad-zein&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuad-zein&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuad-zein&theme=github_dark&utcOffset=8"/>
+</div>
 
-## Github Statistic
+</br>
+
+### **Let's connect!**
+
+<div>
+  <a href="https://www.linkedin.com/in/fuad-zein-b2a509104/" target="blank">
+    <img src='https://img.shields.io/badge/Fuad_Zein-30302f?style=flat&logo=linkedin&color=blue'/>
+  </a>
+</div>
 
 [my](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=dracula)
+
+
+<!-- 
+ - https://github.com/vn7n24fzkq/github-profile-summary-cards
+ - https://github.com/bagusfe/bagusfe
+-->
