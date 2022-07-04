@@ -3,7 +3,6 @@
 I am someone who likes to learn new things by researching their advantages and disadvantages of it so that I can provide the best alternative in dealing with various problems. As industry 4.0 develops, there is hope in the future to be able to develop Internet of Things (IoT) devices.
 
 ### **Stats:**
-<hr>
 
 <details>
   <summary>
@@ -28,7 +27,6 @@ I am someone who likes to learn new things by researching their advantages and d
 </br>
 
 ### **Let's connect!**
-<hr>
 
 <div>
   <a href="https://www.linkedin.com/in/fuad-zein-b2a509104/" target="blank">
