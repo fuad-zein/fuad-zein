@@ -26,7 +26,7 @@ I am someone who likes to learn new things by researching their advantages and d
 </div>
 </br>
 
-### **Let's connect!**
+### **Let's Connect:**
 
 <div>
   <a href="https://www.linkedin.com/in/fuad-zein-b2a509104/" target="blank">
