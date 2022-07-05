@@ -15,7 +15,7 @@ I am someone who likes to learn new things by researching their advantages and d
   - 💬 Ask me about anything. </br>
   - 📫 How to reach me: <a href="mailto:fzein.1695@gmail.com">email me...</a>
 </details>
-</br>
+<!-- </br> -->
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=github_dark"/>
@@ -24,7 +24,7 @@ I am someone who likes to learn new things by researching their advantages and d
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuad-zein&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuad-zein&theme=github_dark&utcOffset=8"/>
 </div>
-</br>
+<!-- </br> -->
 
 ### **Let's Connect:**
 
