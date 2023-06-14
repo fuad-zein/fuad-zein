@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m **Fuad Zein**
 
-<img align="left" height="120" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+<img align="left" height="110" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 I am someone who likes to learn new things by researching their advantages and disadvantages of it so that I can provide the best alternative in dealing with various problems. As industry 4.0 develops, there is hope in the future to be able to develop Internet of Things (IoT) devices.
 
@@ -8,7 +8,7 @@ I am someone who likes to learn new things by researching their advantages and d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fuad-zein-b2a509104) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18139953)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -65,7 +65,7 @@ I am someone who likes to learn new things by researching their advantages and d
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuad-zein&theme=dracula" alt="fuad-zein" /></a> </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuad-zein&theme=dracula)
