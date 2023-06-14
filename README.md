@@ -1,5 +1,7 @@
 ## 👋 Hi there, I’m **Fuad Zein**
 
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+
 I am someone who likes to learn new things by researching their advantages and disadvantages of it so that I can provide the best alternative in dealing with various problems. As industry 4.0 develops, there is hope in the future to be able to develop Internet of Things (IoT) devices.
 
 ## 🌐 Socials:
@@ -58,6 +60,10 @@ I am someone who likes to learn new things by researching their advantages and d
 <!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)  -->
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) -->
 <!-- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) -->
+
+## 🏆 GitHub Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuad-zein&theme=dracula" alt="fuad-zein" /></a> </p>
 
 # 📊 GitHub Stats:
 
