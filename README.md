@@ -2,13 +2,9 @@
 
 I am someone who likes to learn new things by researching their advantages and disadvantages of it so that I can provide the best alternative in dealing with various problems. As industry 4.0 develops, there is hope in the future to be able to develop Internet of Things (IoT) devices.
 
----
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fuad-zein-b2a509104) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18139953)
-
----
 
 # 💻 Tech Stack:
 
@@ -66,17 +62,15 @@ I am someone who likes to learn new things by researching their advantages and d
 # 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=fuad-zein&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fuad-zein&theme=dracula&hide_border=true)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuad-zein&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuad-zein&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fuad-zein&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=fuad-zein&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-zein&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
----
 
 <!-- [![](https://visitcount.itsvg.in/api?id=fuad-zein&icon=2&color=3)](https://visitcount.itsvg.in) -->
 
