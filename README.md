@@ -2,7 +2,7 @@
 
 <img align="left" height="110" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-I am someone who likes to learn new things by researching their advantages and disadvantages of it so that I can provide the best alternative in dealing with various problems. As industry 4.0 develops, there is hope in the future to be able to develop Internet of Things (IoT) devices.
+I am someone who likes to learn new things by researching their advantages and disadvantages of it so that I can provide the best alternative in dealing with various problems. As industry 4.0 develops, there is hope in the future to be able to develop Internet of Things (IoT) devices.\
 
 ## 🌐 Socials:
 
