@@ -6,6 +6,10 @@ I am someone who likes to learn new things by researching their advantages and d
 
 &nbsp;
 
+## ✍️ Random Dev Quote
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fuadzein/)
@@ -98,20 +102,24 @@ I am someone who likes to learn new things by researching their advantages and d
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuad-zein&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuad-zein&theme=dracula)
-![](https://github-readme-streak-stats.herokuapp.com/?user=fuad-zein&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=fuad-zein&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-zein&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![fuad-zein (fuzi)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuad-zein&theme=dracula)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuad-zein&theme=dracula)
+![Top Languages ny Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuad-zein&theme=dracula)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuad-zein&theme=dracula&hide_border=true)<br/>
+![fuzi's Github Stats](https://github-readme-stats.vercel.app/api?username=fuad-zein&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-zein&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <!-- ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=fuad-zein&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
 
-## ✍️ Random Dev Quote
+## 📈 GitHub Activity Graph:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuad-zein&area=true&hide_border=true&theme=dracula)
+
+<!-- ## ✍️ Random Dev Quote
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=fuad-zein&icon=2&color=3)](https://visitcount.itsvg.in) -->
 
