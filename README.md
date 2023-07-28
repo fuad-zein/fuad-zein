@@ -113,7 +113,7 @@ I am someone who likes to learn new things by researching their advantages and d
 
 ![](https://github-contributor-stats.vercel.app/api?username=fuad-zein&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
 
-## 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuad-zein&area=true&hide_border=true&theme=dracula)
 
